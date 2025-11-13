@@ -8,6 +8,8 @@
 
 Bootcamp oferecido pela [DIO (Digital Innovation One)](https://www.dio.me/) em parceria com a **CAIXA**, focado em aplicar Inteligência Artificial na vida pessoal e profissional.
 
+> 🤖 **Este projeto está sendo desenvolvido em conjunto com o GitHub Copilot**, utilizando IA para auxiliar no aprendizado e desenvolvimento das atividades do bootcamp.
+
 ### 🎯 Objetivos
 
 - Dominar os fundamentos de Inteligência Artificial aplicados a finanças pessoais
@@ -84,6 +86,7 @@ bootcamp-caixa-ia-pratica/
 ![Microsoft](https://img.shields.io/badge/Microsoft-0078D4?style=for-the-badge&logo=microsoft&logoColor=white)
 ![AI](https://img.shields.io/badge/Artificial_Intelligence-00599C?style=for-the-badge&logo=ai&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000000?style=for-the-badge&logo=github&logoColor=white)
 
 ## 📖 Como Usar Este Repositório
 

@@ -105,6 +105,22 @@ git clone https://github.com/seu-usuario/bootcamp-caixa-ia-pratica.git
 
 Os certificados de conclusão serão adicionados na pasta `certificados/` conforme o progresso no bootcamp.
 
+## 🧭 Áreas da Plataforma DIO
+
+Resumo das principais seções que compõem a experiência do bootcamp na plataforma DIO:
+
+- **Sobre:** Visão geral do programa, objetivos e trilha proposta.
+- **Atividades:** Aulas, quizzes, desafios de código e desafios de projeto que geram progresso.
+- **Mentorias (Lives):** Sessões ao vivo com especialistas para tirar dúvidas, dicas de carreira e aprofundamento.
+- **Ranking:** Pontuação baseada em interações (fórum, rooms), acertos em quizzes e qualidade dos desafios. Estimula engajamento.
+- **Fórum:** Espaço assíncrono para tirar dúvidas técnicas, compartilhar soluções e discutir conteúdos.
+- **Rooms:** Salas de conversa em tempo real para networking, colaboração e estudo em grupo.
+- **Pessoas / Matriculados:** Lista dos participantes para facilitar conexões e networking.
+- **Certificado:** Emissão ao atingir os critérios mínimos de conclusão; pode ser baixado e compartilhado.
+- **Suporte:** Central para reportar problemas, tirar dúvidas sobre a plataforma e solicitar ajuda.
+
+> Dica: Registre aprendizados e dúvidas em `anotacoes/` e transforme respostas do Copilot em resumos para revisão rápida.
+
 ## 👨‍💻 Autor
 
 Desenvolvido durante o Bootcamp **CAIXA - Inteligência Artificial na Prática** da [DIO](https://www.dio.me/).

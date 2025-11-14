@@ -127,9 +127,9 @@ Desenvolvido durante o Bootcamp **CAIXA - Inteligência Artificial na Prática**
 
 ## 📞 Contato
 
-- **LinkedIn:** [Seu LinkedIn]
-- **GitHub:** [Seu GitHub]
-- **E-mail:** seu-email@exemplo.com
+- **LinkedIn:** https://www.linkedin.com/in/gustavoluche/
+- **GitHub:** https://github.com/GustavoLuche
+- **E-mail:** gluche08@gmail.com
 
 ## 📝 Licença
 
